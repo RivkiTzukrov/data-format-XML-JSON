@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person>
+  <main_person>
+    <name>
+      <first_name>Rina</first_name>
+      <last_name>Sason</last_name>
+    </name>
+    <address>
+      <state>Israel</state>
+      <city>Jerusalem</city>
+      <street>Revivim</street>
+    </address>
+    <age>32</age>
+  </main_person>
+
+  <relative>
+    <name>
+      <first_name>Gila</first_name>
+      <last_name>Rosen</last_name>
+    </name>
+    <address>
+      <state>Israel</state>
+      <city>Jerusalem</city>
+      <street>Tlalim</street>
+    </address>
+    <age>23</age>
+    <phone>0502142365</phone>
+    <phone>0502142364</phone>
+  </relative>
+
+  <relative>
+    <name>
+      <first_name>Miriam</first_name>
+      <last_name>Sason</last_name>
+    </name>
+    <address>
+      <state>Israel</state>
+      <city>Elad</city>
+      <street>Vered</street>
+    </address>
+    <age>30</age>
+    <phone>0507842365</phone>
+    <phone>0502142774</phone>
+  </relative>
+
+  <relative>
+    <name>
+      <first_name>Efrat</first_name>
+      <last_name>Shely</last_name>
+    </name>
+    <address>
+      <state>Israel</state>
+      <city>Beit Shemesh</city>
+      <street>Hayarkon</street>
+    </address>
+    <age>24</age>
+    <phone>0511142365</phone>
+    <phone>0502115964</phone>
+  </relative>
+
+</person>

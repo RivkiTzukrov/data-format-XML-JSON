@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "timeArrivedSystem": "12:00",
+      "timeArrivedS": "11:00"
+    },
+    {
+      "timeArrivedSystem": "02:50",
+      "timeArrivedS": "08:00"
+    },
+    {
+      "timeArrivedSystem": "17:00",
+      "timeArrivedS": "09:55"
+    }
+  ]
+}

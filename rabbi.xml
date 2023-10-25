@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rabbi>
+
+	<name>
+		<first_name>Shalom</first_name>
+		<last_name>Levi</last_name>
+	</name>
+
+	<address>
+		<state>Japan</state>
+		<exact_adress>16 Takhaji Street, Tokyo</exact_adress>
+	</address>
+
+	<family_details>
+
+		<relative relation="wife">
+			<first_name>Sara</first_name>
+			<age>44</age>
+			<address>
+				<state>Japan</state>
+				<exact_adress>16 Takhaji Street, Tokyo</exact_adress>
+			</address>
+			<phone>0554685195</phone>
+		</relative>
+
+		<relative relation="son">
+			<first_name>Tzvi</first_name>
+			<age>23</age>
+			<address>
+				<state>Israel</state>
+				<exact_adress>22 Sokolov Street, Bnei Brak</exact_adress>
+			</address>
+			<phone>0554685196</phone>
+		</relative>
+
+	</family_details>
+
+</rabbi>
